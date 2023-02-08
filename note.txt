@@ -1,0 +1,11 @@
+Mobile Game Development
+
+
+I. 
++ Game Assets: https://itch.io/game-assets/free
++ Framework: Ionic
+
+II. Workflow
++ How the money come 
+  + Sell the game on the App Store / Google Play
+  + Advertisement

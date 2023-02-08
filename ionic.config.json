@@ -1,0 +1,7 @@
+{
+  "name": "mobile-game-development",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
